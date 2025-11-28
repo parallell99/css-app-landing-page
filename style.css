@@ -168,3 +168,27 @@ body {
     font-size: 16px;
     padding: 5px 0  0 10px;
 }
+
+.dev3-contact-section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 1,199px;
+  height: 666px;
+  border-radius: 24px;
+  padding: 80px 120px;
+  gap: 40px;
+  background-color: #FFFFFF 70%;
+}
+
+.dev3-contact-title {
+  flex-basis: 261px 48px;
+  font-size: 44px;
+  font-weight: 700;
+  font-style: bold;
+  line-height: 48px;
+  letter-spacing: -2%;
+  text-align: center;
+  color: #1A1A2C;
+}
